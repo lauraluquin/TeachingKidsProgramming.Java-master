@@ -1,0 +1,10 @@
+public class Print_10_integers_Seperate_Lines
+{
+  public Print_10_integers_Seperate_Lines()
+  {
+    for (int i = 1; i < 10; i++)
+    {
+      System.out.println((i + 1) + " ");
+    }
+  }
+}
